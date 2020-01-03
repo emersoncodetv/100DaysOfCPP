@@ -9,23 +9,30 @@
 #include <iostream>
 //using std::cout;
 //using std::endl;
+#include "if.h"
+#include "array-1D.h"
+#include "const.h"
+#include "getting-started.h"
+#include "while-loop.h"
+#include "do-while-loop.h"
+#include "for-loop.h"
+#include "array_2D.h"
+#include "nested_loops.h"
 
 using namespace std;
 
-void numbers (){
-    
-    int array[] = {1,2,3,4,5,6};
-    cout << array[0] << endl;
-}
 
 int main(int argc, const char * argv[]) {
-    numbers();
-    string name;
-    // insert code here...
-    cout << "Hello, World!" << endl;
-//    cin >> name;
-    getline(cin, name);
-    std::cout << __cplusplus << endl;
-    cout << name << endl;
+    getting_started();
+    if_statement(10, 3);
+    array_numbers();
+    constant();
+    while_loop();
+    do_while_loop();
+    for_loop();
+    array_2D();
+    nested_loops();
+    
     return 0;
 }
+

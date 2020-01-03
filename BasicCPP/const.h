@@ -9,5 +9,8 @@
 #ifndef const_h
 #define const_h
 
+void constant () {
+    const double pi = 3.65; // pi = 4.5;
+}
 
 #endif /* const_h */

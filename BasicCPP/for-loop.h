@@ -9,5 +9,10 @@
 #ifndef for_loop_h
 #define for_loop_h
 
+void for_loop () {
+    for (int index = 0; index < 5; index++) {
+        std::cout << "for loop number: " << index << std::endl;
+    }
+}
 
 #endif /* for_loop_h */

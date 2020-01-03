@@ -25,6 +25,15 @@
 /* Begin PBXFileReference section */
 		6300AE5A23B91571005C03D3 /* BasicCPP */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BasicCPP; sourceTree = BUILT_PRODUCTS_DIR; };
 		6300AE5D23B91571005C03D3 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		63402F5B23BBA2520098E0F9 /* if.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = if.h; sourceTree = "<group>"; };
+		63D9FB2C23BE0A61001C5290 /* for-loop.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "for-loop.h"; sourceTree = "<group>"; };
+		63D9FB2D23BE0A72001C5290 /* while-loop.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "while-loop.h"; sourceTree = "<group>"; };
+		63D9FB2E23BE0A7E001C5290 /* do-while-loop.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "do-while-loop.h"; sourceTree = "<group>"; };
+		63D9FB2F23BE0AD5001C5290 /* array-1D.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "array-1D.h"; sourceTree = "<group>"; };
+		63D9FB3023BE0B24001C5290 /* const.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = const.h; sourceTree = "<group>"; };
+		63D9FB3123BE0B58001C5290 /* getting-started.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "getting-started.h"; sourceTree = "<group>"; };
+		63D9FB3223BE10CB001C5290 /* nested_loops.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = nested_loops.h; sourceTree = "<group>"; };
+		63D9FB3323BE10E0001C5290 /* array_2D.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = array_2D.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +67,15 @@
 			isa = PBXGroup;
 			children = (
 				6300AE5D23B91571005C03D3 /* main.cpp */,
+				63D9FB2D23BE0A72001C5290 /* while-loop.h */,
+				63402F5B23BBA2520098E0F9 /* if.h */,
+				63D9FB2C23BE0A61001C5290 /* for-loop.h */,
+				63D9FB2E23BE0A7E001C5290 /* do-while-loop.h */,
+				63D9FB2F23BE0AD5001C5290 /* array-1D.h */,
+				63D9FB3323BE10E0001C5290 /* array_2D.h */,
+				63D9FB3023BE0B24001C5290 /* const.h */,
+				63D9FB3123BE0B58001C5290 /* getting-started.h */,
+				63D9FB3223BE10CB001C5290 /* nested_loops.h */,
 			);
 			path = BasicCPP;
 			sourceTree = "<group>";

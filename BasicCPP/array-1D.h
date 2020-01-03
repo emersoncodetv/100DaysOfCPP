@@ -9,5 +9,11 @@
 #ifndef array_1D_h
 #define array_1D_h
 
+void array_numbers (){
+    
+    int array[] = {1,2,3,4,5,6};
+    std::cout << array[0] << std::endl;
+    
+}
 
 #endif /* array_1D_h */

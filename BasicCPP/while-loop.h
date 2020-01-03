@@ -9,5 +9,12 @@
 #ifndef while_loop_h
 #define while_loop_h
 
+void while_loop () {
+    int index = 0;
+    while(index < 5){
+        std::cout << "Number: " << index << std::endl;
+        index++;
+    }
+}
 
 #endif /* while_loop_h */

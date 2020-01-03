@@ -9,5 +9,19 @@
 #ifndef getting_started_h
 #define getting_started_h
 
+using namespace std;
+
+void getting_started () {
+    string name;
+    // insert code here...
+    cout << "Escriba su nombre" << endl;
+    //    cin >> name;
+    getline(cin, name);
+    
+    cout << name << endl;
+    
+    cout << "versión de compilación: " << __cplusplus << endl;
+}
+
 
 #endif /* getting_started_h */
