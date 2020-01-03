@@ -34,6 +34,7 @@
 		63D9FB3123BE0B58001C5290 /* getting-started.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "getting-started.h"; sourceTree = "<group>"; };
 		63D9FB3223BE10CB001C5290 /* nested_loops.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = nested_loops.h; sourceTree = "<group>"; };
 		63D9FB3323BE10E0001C5290 /* array_2D.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = array_2D.h; sourceTree = "<group>"; };
+		63FC5A2A23BF43E800C34712 /* pointers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = pointers.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +77,7 @@
 				63D9FB3023BE0B24001C5290 /* const.h */,
 				63D9FB3123BE0B58001C5290 /* getting-started.h */,
 				63D9FB3223BE10CB001C5290 /* nested_loops.h */,
+				63FC5A2A23BF43E800C34712 /* pointers.h */,
 			);
 			path = BasicCPP;
 			sourceTree = "<group>";

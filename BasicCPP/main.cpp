@@ -18,20 +18,23 @@
 #include "for-loop.h"
 #include "array_2D.h"
 #include "nested_loops.h"
+#include "pointers.h"
 
 using namespace std;
 
 
 int main(int argc, const char * argv[]) {
-    getting_started();
-    if_statement(10, 3);
-    array_numbers();
-    constant();
-    while_loop();
-    do_while_loop();
-    for_loop();
-    array_2D();
-    nested_loops();
+//    getting_started();
+//    if_statement(10, 3);
+//    array_numbers();
+//    constant();
+//    while_loop();
+//    do_while_loop();
+//    for_loop();
+//    array_2D();
+//    nested_loops();
+    pointers();
+    
     
     return 0;
 }
