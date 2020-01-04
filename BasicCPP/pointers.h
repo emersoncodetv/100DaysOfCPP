@@ -50,7 +50,7 @@ void pointers() {
     string *holaMundoHexa = &holaMundo;
     
     std::cout << holaMundoHexa << std::endl;
-    std::cout << *holaMundoHexa << std::endl;
+    std::cout << " *holaMundoHexa " << *holaMundoHexa << std::endl;
     
     holaMundo = "Hola Mundo 2";
     

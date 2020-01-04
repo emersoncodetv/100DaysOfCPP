@@ -19,6 +19,8 @@
 #include "array_2D.h"
 #include "nested_loops.h"
 #include "pointers.h"
+#include "classes.h"
+#include "classes2.h"
 
 using namespace std;
 
@@ -34,6 +36,8 @@ int main(int argc, const char * argv[]) {
 //    array_2D();
 //    nested_loops();
     pointers();
+    classes();
+    classes2();
     
     
     return 0;
